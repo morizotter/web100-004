@@ -4,16 +4,17 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 @import "compass";
-@import "compass/typography/text/force-wrap";
+@import "compass/layout";
+
+@include sticky-footer(54px);
 
 .head {
 	height: 220px;
-	background-color: #27ae60;
+	background-color: #e74c3c;
 	.content {
 		margin-top: 30px;
 		h1 {
 			@include text-shadow;
-			@include force-wrap;
 			color:white;
 			text-align: center;
 			font-size: 80px;
