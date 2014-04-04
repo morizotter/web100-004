@@ -1,13 +1,20 @@
 web100-004
 ==========
 
+Objective
+----------
+
 Jekyllで簡単なサイトを作成する
+
+Problems to be solved
+---------------------
+
+- 画面サイズに応じてフォントサイズを変えたい。
 
 Usage
 ------
 
 - Jekyll
-- CoffeeScript
 - Compass
 - TwitterBootstrap
 
