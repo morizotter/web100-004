@@ -6,6 +6,7 @@ Jekyllで簡単なサイトを作成する
 Usage
 ------
 
+- Jekyll
 - CoffeeScript
 - Compass
 - TwitterBootstrap
